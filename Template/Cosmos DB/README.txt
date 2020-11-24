@@ -1,0 +1,1 @@
+This script allows to create the Cosmos DB
